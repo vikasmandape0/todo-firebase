@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "105204175291",
+    "firebase_url": "https://fir-tutorial-bc737-default-rtdb.firebaseio.com",
+    "project_id": "fir-tutorial-bc737",
+    "storage_bucket": "fir-tutorial-bc737.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105204175291:android:99a5ed08a321a1be68f49e",
+        "android_client_info": {
+          "package_name": "com.example.pkart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7XOeCgUCUoaBLKB3tMoQnPiBxXfJ4DNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105204175291:android:ed69d1d0280f1be168f49e",
+        "android_client_info": {
+          "package_name": "com.example.practice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7XOeCgUCUoaBLKB3tMoQnPiBxXfJ4DNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
